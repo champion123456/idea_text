@@ -60,10 +60,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="167" />
+    <option name="x" value="110" />
+    <option name="y" value="20" />
     <option name="width" value="1750" />
-    <option name="height" value="949" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -85,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,13 +97,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571571375182" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWeb" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571580070874" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -149,6 +149,9 @@
       <workItem from="1571559101539" duration="3181000" />
       <workItem from="1571569387992" duration="2156000" />
       <workItem from="1571571629397" duration="597000" />
+      <workItem from="1571578928106" duration="1116000" />
+      <workItem from="1571580187665" duration="119000" />
+      <workItem from="1571580367489" duration="165000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1571569726539</created>
@@ -161,7 +164,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5934000" />
+    <option name="totallyTimeSpent" value="7334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,9 +176,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="134" width="1400" height="759" extended-state="0" />
+    <frame x="88" y="16" width="1400" height="760" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25707898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26825634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -191,8 +194,8 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.31903484" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49925485" visible="true" weight="0.3923445" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5007452" side_tool="true" visible="true" weight="0.3923445" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4962742" visible="true" weight="0.39171976" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50372577" side_tool="true" visible="true" weight="0.39171976" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
